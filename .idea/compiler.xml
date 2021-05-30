@@ -9,5 +9,8 @@
         <module name="seleniumprojectb22" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="seleniumprojectb22" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
